@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý</title>
+    <link rel="stylesheet" href="/css/admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <!-- <a class="navbar-brand" href="#">User:</a> -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            User
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="/admin/users">User</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/admin/users/google">User Google</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/admin/users/user-add">Add User</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/admin/users/user-trash">Restore User</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Category
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="/admin/categorys">Trang Category</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/admin/categorys/category-add">Add Category</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/admin/categorys/category-trash">Restore Category</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Story
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="/admin/products">Story</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/admin/products/product-add">Add Story</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/admin/products/product-trash">Restore Story</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Chapter
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="/admin/chapters">Chapter</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/admin/chapters/chapter-add">Add Chapter</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/admin/chapters/chapter-trash">Restore Chapter</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    <div id="toast">
+        <% if (typeof alert != 'undefined') {%>
+            <% alert.forEach(function(errors) { %>
+                <div class="toast toast--warning">
+                    <div class="toast__icon">
+                        <i class="fa-solid fa-triangle-exclamation"></i>
+                    </div>
+                    <div class="toast__body">
+                        <h3 class="toast__title">Attention</h3>
+                        <p class="toast__msg">
+                            <%= errors.msg %>
+                        </p>
+                    </div>
+                    <div class="toast__close">
+                        <i class="fas fa-times"></i>
+                    </div>
+                </div>
+            <% }); %>
+        <% }%>
+        
+        <%- messages('messages', locals) %>
+    </div>
+    
+    <div class="container mt-4">
+        
+
+        
+
+    

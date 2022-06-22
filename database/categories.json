@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6218d58e907714fe0aeb5638"
+  },
+  "name": "Action",
+  "description": "Thể loại này thường có nội dung về đánh nhau, bạo lực, hỗn loạn, với diễn biến nhanh",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-25T13:11:42.616Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:34:07.989Z"
+  },
+  "slug": "action",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-03-30T08:33:26.448Z"
+  }
+},{
+  "_id": {
+    "$oid": "6218d5a0907714fe0aeb563e"
+  },
+  "name": "Adventure",
+  "description": "Thể loại phiêu lưu, mạo hiểm, thường là hành trình của các nhân vật",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-25T13:12:00.058Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:34:09.056Z"
+  },
+  "slug": "adventure",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-03-30T08:33:46.673Z"
+  }
+},{
+  "_id": {
+    "$oid": "6218d5bb907714fe0aeb5644"
+  },
+  "name": "Fantasy",
+  "description": "Thể loại xuất phát từ trí tưởng tượng phong phú, từ pháp thuật đến thế giới trong mơ thậm chí là những câu chuyện thần tiên.",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-25T13:12:27.031Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:34:09.777Z"
+  },
+  "slug": "fantasy",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-03-30T08:33:48.798Z"
+  }
+}]

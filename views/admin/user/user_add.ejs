@@ -1,0 +1,38 @@
+<%- include ('../../layout/headerAdmin.ejs'); -%>
+
+<form action="/admin/users/add" method="POST">
+    <div class="form-group">
+        <label for="name">Tên hiển thị</label>
+        <input type="text" name="name" class="form-control" placeholder="Tên hiển thị">
+    </div>
+    <div class="form-group">
+        <label for="username">Email</label>
+        <input type="text" name="email" class="form-control" placeholder="Email">
+    </div>
+    <div class="form-group">
+        <label for="username">Tài khoản</label>
+        <input type="text" name="username" class="form-control" placeholder="Tài khoản">
+    </div>
+    <div class="form-group">
+        <label for="password">Mật khẩu</label>
+        <input type="password" name="password" class="form-control" placeholder="Mật khẩu">
+    </div>
+    <div class="form-group">
+        <label for="password-confirm">Nhập lại mật khẩu</label>
+        <input type="password" name="password_confirm" class="form-control" placeholder="Nhập lại mật khẩu">
+    </div>
+    <div class="form-group">
+        <label for="password-confirm">Quyền quản lý:</label>
+        <div class="form-check-inline">
+            <label class="form-check-label">
+                <input type="radio" class="form-check-input" name="admin" value="0">
+                <label for="category">Người dùng</label>
+                <input type="radio" class="form-check-input" name="admin" value="1">
+                <label for="category">Người quản lý</label>
+            </label>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Thêm mới</button>
+</form>
+
+<%- include ('../../layout/footerAdmin.ejs'); -%>

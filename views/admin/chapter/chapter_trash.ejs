@@ -1,0 +1,33 @@
+<%- include ('../../layout/headerAdmin.ejs'); -%>
+<a href="/admin/chapters/chapter-add">Thêm chương mới</a>
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">Số chương</th>
+            <th scope="col">Thuộc truyện</th>
+            <th scope="col">Khôi phục</th>
+            <th scope="col">Xóa vĩnh viễn</th>
+        </tr>
+    </thead>
+    <tbody>
+        <%
+            chapters.forEach( (item) =>{%>
+                <tr>
+                    <td><%= item.name %></td>
+                    <td><%= item.product %></td>
+                    <td>
+                        <form action="/admin/chapters/chapter-trash/restor/<%= item._id %>?_method=PATCH" method="POST">
+                            <button type="submit" class="btn btn-success">Khôi phục</button>
+                        </form>
+                    </td>
+                    <td>
+                        <form action="/admin/chapters/chapter-trash/destroy/<%= item._id %>?_method=DELETE" method="POST">
+                            <button type="submit" class="btn btn-danger">Xóa vĩnh viễn</button>
+                        </form>
+                    </td>
+                </tr>    
+            <%});
+        %>
+    </tbody>
+</table>
+<%- include ('../../layout/footerAdmin.ejs'); -%>

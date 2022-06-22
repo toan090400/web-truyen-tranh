@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "622dd3837995a5945f42d443"
+  },
+  "name": "ĐẤU PHÁ THƯƠNG KHUNG",
+  "description": "Đây là một thế giới thuộc về Đấu Khí, không hề có ma pháp hoa tiếu diễm lệ, chỉ có đấu khí cương mãnh phồn thịnh !\r\nTưởng tượng thế giới đó sẽ phát triển ra sao ? mời các bạn xem Đấu Phá Thương Khung !\r\nHệ Thống Tu Luyện : Đấu Giả, Đấu Sư, Đại Đấu Sư, Đấu Linh, Đấu Vương, Đấu Hoàng, Đấu Tông, Đấu Tôn, Đấu Thánh, Đấu Đế.\r\nHãy Bắt Đầu Từ Tiêu Viêm ! Một thiên tài tu luyện trong phút chốc trở thành phế vật, từ phế vật lại từng bước khẳng định lại chính mình !\r\nHãy cùng bắt đầu cuộc hành trình đó với Đấu Phá Thương Khung",
+  "category": "Action",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-13T11:20:35.657Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:34:28.723Z"
+  },
+  "__v": 0,
+  "image": "462003656-dau-pha-thuong-khung.jpg",
+  "deletedAt": {
+    "$date": "2022-03-30T08:34:13.544Z"
+  }
+},{
+  "_id": {
+    "$oid": "622de278250873b72d5b5b83"
+  },
+  "name": "VÕ LUYỆN ĐỈNH PHONG",
+  "description": "Võ đạo đỉnh phong, là cô độc, là tịch mịch, là dài đằng đẵng cầu tác, là cao xử bất thắng hàn\r\nPhát triển trong nghịch cảnh, cầu sinh nơi tuyệt địa, bất khuất không buông tha, mới có thể có thể phá võ chi cực đạo.\r\nLăng Tiêu các thí luyện đệ tử kiêm quét rác gã sai vặt Dương Khai ngẫu lấy được một bản vô tự hắc thư, từ nay về sau đạp vào dài đằng đẵng võ đạo.",
+  "category": "Fantasy",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-13T12:24:24.637Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:34:29.547Z"
+  },
+  "__v": 0,
+  "image": "816729484-vo-luyen-dinh-phong.jpg",
+  "deletedAt": {
+    "$date": "2022-03-30T08:34:14.395Z"
+  }
+},{
+  "_id": {
+    "$oid": "622edc585538e15dadbf70ee"
+  },
+  "name": "ĐẤU LA ĐẠI LỤC",
+  "description": "Đấu La Đại Lục là một trong những tác phẩm đặc sắc của Đường Gia Tam Thiếu. Tác phẩm thuộc thể loại truyện Huyễn Hiệp, mang đến cho độc giả một cái nhìn, một cảm nhận mới về thế giới hiệp khách huyền ảo. Câu chuyện với nhân vật chính, con một thợ rèn, một thợ rèn trở thành tửu quỷ, vì thê tử đã mất, sẵn sàng lôi cuốn người đọc ngay từ những chương đầu tiên.",
+  "category": "Adventure",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-14T06:10:32.863Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-23T06:53:53.444Z"
+  },
+  "__v": 0,
+  "image": "266852532-dau-la-dai-luc.jpg"
+},{
+  "_id": {
+    "$oid": "623d776c3c31d9263f21c815"
+  },
+  "name": "THĂNG CẤP CÙNG THẦN",
+  "description": "Một ngày nọ, những vị Thần tới từ thế giới khác, những Ngoại Giới Chi Thần bao gồm “Tuyệt Vọng Vươn Tới Tận Trời Xanh”, “Sự U Ám Mắc Kẹt Lại Trong Đầm Lầy”, “Kẻ Không Thể Được Sinh Ra”, “Tai Ương Ngu Xuẩn” bỗng dưng xuất hiện. Chỉ cần nhìn vào chúng thôi cũng là đủ để những con người bình thường mất đi mạng sống của mình rồi... Sau hàng năm trời chiến đấu, những vị thần sống sót cuối cùng đã đi tới một kết luận. “Một kẻ Nội Giới không bao giờ có thể đánh bại một kẻ Ngoại Giới.” Trong lúc đó, Chronos, một thực thể thần thánh có thể thao túng thời gian, đã hi sinh bản thân để quay ngược Dòng Thời Gian, cho toàn thể sinh mệnh Nội Giới một cơ hội nữa. Kim YuWon - nhân loại mang niềm hi vọng của các vị thần đã được chọn để quay về quá khứ. “Một kẻ Nội giới không bao giờ có thể đánh bại một kẻ Ngoại giới à? nhưng kể cả có là vậy thì ta nhất định vẫn sẽ chiến thắng!\"",
+  "category": "Action",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T08:03:56.534Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T08:04:18.650Z"
+  },
+  "__v": 0,
+  "image": "59062121-thang-cap-cung-than.jpg"
+},{
+  "_id": {
+    "$oid": "623d78003c31d9263f21c854"
+  },
+  "name": "QUÁI VẬT NHẠC VIÊN",
+  "description": "P/s: Đây là truyện Ngự Thú, main dùng quái vật chiến đấu là chính, ko thích main yếu + dựa vào quái vật thì out nhanh là vừa.",
+  "category": "Fantasy",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T08:06:24.192Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T08:11:29.291Z"
+  },
+  "__v": 0,
+  "image": "919882622-quai-vat-nhac-vien-4168.jpg"
+},{
+  "_id": {
+    "$oid": "623d79433c31d9263f21c868"
+  },
+  "name": "PHÀM NHÂN TU TIÊN",
+  "description": "Một bộ truyện được chuyển thể từ tiểu thuyết tu tiên cùng tên rất đỉnh của tác giả Vong Ngữ, với tình tiết logic, Vong Ngữ đã cho ra đời một thế giới tu tiên giả đầy màu sắc và huyền ảo.",
+  "category": "Adventure",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T08:11:47.663Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T08:11:53.515Z"
+  },
+  "__v": 0,
+  "image": "68096266-pham-nhan-tu-tien.jpg"
+}]

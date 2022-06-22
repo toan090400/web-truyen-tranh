@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "6221adddfb386b38f40ea208"
+  },
+  "name": "Admin",
+  "email": "toan1@gmail.com",
+  "username": "admin",
+  "password": "$2a$10$9YUXCamb8thGWsKDI4sSo.KEVJte/djGUVcJLKhjzqSJy4/8GMJlS",
+  "admin": 1,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-04T06:12:45.895Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:35:30.316Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-03-30T08:35:30.315Z"
+  }
+},{
+  "_id": {
+    "$oid": "6221b82bee1f394857eb5d2d"
+  },
+  "googleId": "107204877888325786396",
+  "displayName": "ductoan nguyen",
+  "firstName": "ductoan",
+  "lastName": "nguyen",
+  "image": "https://lh3.googleusercontent.com/a-/AOh14GhIJJj7X4lemlZzFV1bquHWS1IGO4krddaku4RTKQ=s96-c",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-04T06:56:43.110Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-04T06:56:43.110Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6221b878ee1f394857eb5d3d"
+  },
+  "googleId": "100481189358958988510",
+  "displayName": "Nguyễn Đức Toàn",
+  "firstName": "Nguyễn Đức Toàn",
+  "image": "https://lh3.googleusercontent.com/a/AATXAJy2IujCxDniYP-hVqVn99nXESbrkZ_snpYP9XE0=s96-c",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-04T06:58:00.281Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-04T06:58:00.281Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622ddfbfb2eaa4d01dc0e61b"
+  },
+  "name": "nhân viên 1",
+  "email": "toan1@gmail.com",
+  "username": "nhanvien1",
+  "password": "$2a$10$bIi5mx/p0zfX0FXidlXHkOngMlUxvDfqIEXNK92V0Y9v.F3z1o7ku",
+  "admin": 0,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-13T12:12:47.216Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:41:57.049Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-03-30T08:41:14.018Z"
+  }
+}]

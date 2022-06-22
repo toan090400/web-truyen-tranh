@@ -1,0 +1,36 @@
+<%- include ('../../layout/headerAdmin.ejs'); -%>
+
+<a href="/admin/users/user-trash">Khôi phục người dùng</a>
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">Tên hiển thị</th>
+            <th scope="col">Email</th>
+            <th scope="col">Tài khoản</th>
+            <th scope="col">Cập nhật</th>
+            <th scope="col">Xóa</th>
+        </tr>
+    </thead>
+    <tbody>
+        <%
+            users.forEach( (item) =>{%>
+                <tr>
+                    <td><%= item.name %></td>
+                    <td><%= item.email %></td>
+                    <td><%= item.username %></td>
+                    <td>
+                        <a class="btn btn-info" href="/admin/users/edit/<%= item.username %>">Cập nhật</a>
+                    </td>
+                    <td>
+                        <form action="/admin/users/delete/<%= item.username %>?_method=DELETE" method="POST">
+                            <button type="submit" class="btn btn-warning">Xóa</button>
+                        </form>
+                    </td>
+                    
+                </tr>    
+            <%});
+        %>
+    </tbody>
+</table>
+
+<%- include ('../../layout/footerAdmin.ejs'); -%>

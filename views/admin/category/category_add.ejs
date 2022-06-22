@@ -1,0 +1,17 @@
+<%- include ('../../layout/headerAdmin.ejs'); -%>
+
+<form action="/admin/categorys/add" method="POST">
+    <div class="form-group">
+        <label for="name">Tên thể loại</label>
+        <input  type="text" name="name" class="form-control" placeholder="Tên thể loại">
+        
+    </div>
+    <div class="form-group">
+        <label for="description">Mô tả</label>
+        <textarea name="description" class="form-control" placeholder="Mô Tả" cols="30" rows="10"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Thêm mới</button>
+</form>
+
+<%- include ('../../layout/footerAdmin.ejs'); -%>

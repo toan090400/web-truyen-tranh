@@ -1,0 +1,103 @@
+<%- include ('./layout/header.ejs'); -%>
+<section class="features" id="features">
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="/product_images/<%= image %>" loading="lazy" alt="<%= product %>">
+            
+            <a href="/products/<%= product %>"><h3><%= product %></h3></a>
+            <h3>Chapter: <%= name %></h3>
+            <%
+                    
+                if(name == 1){%>
+                    <!-- <a href="#" class="btn"><i class="fa-solid fa-backward"></i></a> -->
+                <%}
+                else if(name <= chapterLength){%>
+                    <a href="/chapters/<%= product %>/chapter/<%= previous %>" class="btn">
+                        <i class="fa-solid fa-backward"></i>
+                    </a>
+                <%}
+            %>
+            
+            <%
+                    
+                if(name < chapterLength){%>
+                    <a href="/chapters/<%= product %>/chapter/<%= next %>" class="btn">
+                        <i class="fa-solid fa-forward"></i>
+                    </a>
+                <%}
+                else if(name == chapterLength){%>
+                    <!-- <a href="#" class="btn"><i class="fa-solid fa-forward"></i></a> -->
+                <%}
+            %>
+            <form action="/history/check" method="POST">
+                <input type="hidden" readonly name="chapter" value="<%= name %>">
+                <input type="hidden" readonly name="product" value="<%= product %>">
+                <input type="hidden" readonly name="image" value="<%= image %>">
+                <input type="hidden" readonly name="userId" value="<%= user._id %>">
+                <button class="btn"><i class="fa-solid fa-pen-to-square"></i></button>
+            </form>
+        </div>
+
+    </div>
+
+</section>
+
+<div class="chapter__container">
+    <div class="content">
+        
+        <div class="content__image">
+            <%
+                content.forEach( (item) =>{%>
+                    <img src="/chapter_images/<%= item.filename %>" alt="">
+                <%});
+            %>
+        </div>
+        
+    </div>
+</div>
+
+<section class="features" id="features">
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="/product_images/<%= image %>" alt="<%= product %>">
+            <a href="/products/<%= product %>"><h3><%= product %></h3></a>
+            <h3>Chapter: <%= name %></h3>
+            <%
+                    
+                if(name == 1){%>
+                    <!-- <a href="#" class="btn"><i class="fa-solid fa-backward"></i></a> -->
+                <%}
+                else if(name <= chapterLength){%>
+                    <a href="/chapters/<%= product %>/chapter/<%= previous %>" class="btn">
+                        <i class="fa-solid fa-backward"></i>
+                    </a>
+                <%}
+            %>
+            <%
+                    
+                if(name < chapterLength){%>
+                    <a href="/chapters/<%= product %>/chapter/<%= next %>" class="btn">
+                        <i class="fa-solid fa-forward"></i>
+                    </a>
+                <%}
+                else if(name == chapterLength){%>
+                    <!-- <a href="#" class="btn"><i class="fa-solid fa-forward"></i></a> -->
+                <%}
+            %>
+            <form action="">
+                <input type="hidden" readonly name="name" value="<%= name %>">
+                <input type="hidden" readonly name="product" value="<%= product %>">
+                <input type="hidden" readonly name="image" value="<%= image %>">
+                <button class="btn">Theo dõi chương này</button>
+            </form>
+        </div>
+
+    </div>
+
+</section>
+
+<%- include ('./layout/footer.ejs'); -%>

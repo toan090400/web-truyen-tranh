@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "624411fa34b9ba817fb944bc"
+  },
+  "chapter": "1",
+  "product": "ĐẤU PHÁ THƯƠNG KHUNG",
+  "image": "462003656-dau-pha-thuong-khung.jpg",
+  "userId": "6221adddfb386b38f40ea208",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-30T08:16:58.704Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:16:58.704Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6244120234b9ba817fb944d7"
+  },
+  "chapter": "2",
+  "product": "ĐẤU LA ĐẠI LỤC",
+  "image": "266852532-dau-la-dai-luc.jpg",
+  "userId": "6221adddfb386b38f40ea208",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-30T08:17:06.348Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:17:06.348Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6244121134b9ba817fb944f6"
+  },
+  "chapter": "1",
+  "product": "PHÀM NHÂN TU TIÊN",
+  "image": "68096266-pham-nhan-tu-tien.jpg",
+  "userId": "6221adddfb386b38f40ea208",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-30T08:17:21.041Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:17:21.041Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6244121634b9ba817fb94510"
+  },
+  "chapter": "1",
+  "product": "THĂNG CẤP CÙNG THẦN",
+  "image": "59062121-thang-cap-cung-than.jpg",
+  "userId": "6221adddfb386b38f40ea208",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-30T08:17:26.926Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:17:26.926Z"
+  },
+  "__v": 0
+}]

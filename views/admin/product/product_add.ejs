@@ -1,0 +1,29 @@
+<%- include ('../../layout/headerAdmin.ejs'); -%>
+
+<form action="/admin/products/add" method="POST">
+    <div class="form-group">
+        <label for="name">Tên truyện</label>
+        <input type="text" name="name" class="form-control" placeholder="Tên truyện">
+    </div>
+    <div class="form-group">
+        <label for="description">Tóm tắt truyện</label>
+        <textarea name="description" class="form-control" placeholder="Tóm tắt truyện" cols="30" rows="10"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="name">Thể loại truyện: </label>
+        <%
+            categorys.forEach( (item) =>{%>
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" class="form-check-input" name="category" value="<%= item.name %>">
+                        <label for="category"><%= item.name %></label>
+                    </label>
+                </div>
+            <%})
+        %>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Thêm mới</button>
+</form>
+
+<%- include ('../../layout/footerAdmin.ejs'); -%>

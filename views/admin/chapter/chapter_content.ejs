@@ -1,0 +1,39 @@
+<%- include ('../../layout/headerAdmin.ejs'); -%>
+<a href="/admin/chapters">Quay lại chương</a>
+<div class="form-group">
+    <label for="name">Số chương</label>
+    <input type="text" readonly name="name" class="form-control" value="<%= name %>">
+</div>
+<div class="form-group">
+    <label for="name">Tóm tắt chương</label>
+    <input type="text" readonly name="name" class="form-control" value="<%= description %>">
+</div>
+<div class="form-group">
+    <label for="name">Thuộc truyện</label>
+    <input type="text" readonly name="name" class="form-control" value="<%= product %>">
+</div>
+
+
+
+<div class="chapter__container">
+    <div class="content">
+        
+        <div class="content__image">
+            <%
+                content.forEach( (item) =>{%>
+                    <img src="/chapter_images/<%= item.filename %>" alt="">
+                <%});
+            %>
+        </div>
+        
+    </div>
+</div>
+
+<form action="/admin/chapters/chapter-gallery/<%= id %>?_method=PUT" method="POST" enctype="multipart/form-data" class="dropzone" id="dropzoneForm">
+    <div class="fallback">
+        <input type="file" name="myFiles" multiple>
+    </div>
+    <button type="submit" class="btn btn-primary mt-4">Cập nhật nội dung</button>
+</form>
+
+<%- include ('../../layout/footerAdmin.ejs'); -%>

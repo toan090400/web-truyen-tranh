@@ -1,0 +1,27 @@
+<%- include ('./layout/header.ejs'); -%>
+<section class="features" id="features">
+
+    <h1 class="heading"> Chương đã theo dõi </h1>
+    <div class="box-container">
+        <%
+            historys.forEach( (item) =>{%>
+                <div class="box">
+                    <h3><%= item.product %></h3>
+                    <img src="/product_images/<%= item.image %>" alt="<%= item.product %>">
+                    <h3>Chương <%= item.chapter %></h3>
+                    <a href="/chapters/<%= item.product %>/chapter/<%= item.chapter %>" class="btn">
+                        <i class="fa-solid fa-eye"></i>
+                    </a>
+                    <form action="/history/delete/<%= item._id %>?_method=DELETE" method="POST">
+                        <button class="btn"><i class="fa-solid fa-eye-slash"></i></button>
+                    </form>
+                </div>
+            <%})
+        %>
+        
+    </div>
+    
+</section>
+
+
+<%- include ('./layout/footer.ejs'); -%>

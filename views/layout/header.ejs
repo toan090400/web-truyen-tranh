@@ -1,0 +1,225 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+        <meta name="generator" content="Hugo 0.84.0">
+        <link rel="icon" type="image/png" href="../image/book-icon.png"/>
+        <title><%= title %></title>
+        <link rel="stylesheet" href="/css/index.css">
+        <link rel="stylesheet" href="/css/responsitive.css">
+        <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        
+
+    </head>
+    <body>
+
+        <div id="toast">
+            <% if (typeof alert != 'undefined') {%>
+                <% alert.forEach(function(errors) { %>
+                    <div class="toast toast--warning">
+                        <div class="toast__icon">
+                            <i class="fa-solid fa-triangle-exclamation"></i>
+                        </div>
+                        <div class="toast__body">
+                            <h3 class="toast__title">Thông báo</h3>
+                            <p class="toast__msg">
+                                <%= errors.msg %>
+                            </p>
+                        </div>
+                        <div class="toast__close">
+                            <i class="fas fa-times"></i>
+                        </div>
+                    </div>
+                <% }); %>
+            <% }%>
+            
+            <%- messages('messages', locals) %>
+        </div>
+
+        <div class="wrapper">
+            <nav>
+                <input type="checkbox" id="show-search">
+                <input type="checkbox" id="show-menu">
+                <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
+                <div class="content">
+                    <div class="logo">
+                        <a href="#">
+                            <i class="fa-solid fa-book-atlas"></i>
+                            Website Story
+                        </a>
+                    </div>
+                    <ul class="links">
+                        <li>
+                            <a href="/">
+                                <i class="fa-solid fa-house"></i>
+                                Trang chủ
+                            </a>
+                        </li>
+                        
+                        <li>
+                            <a href="#" class="desktop-link">
+                                <i class="fa-solid fa-book-open"></i>
+                                Thể loại
+                            </a>
+                            <input type="checkbox" id="show-features">
+                            <label for="show-features">
+                                <i class="fa-solid fa-book-open"></i>
+                                Thể loại
+                            </label>
+                            <ul>
+                                <li>
+                                    <a href="/categorys">
+                                        <i class="fa-solid fa-book-open"></i>
+                                        Tất cả thể loại
+                                    </a>
+                                </li>
+                                <li>
+                                    <%
+                                        categorys.forEach( (item) =>{%>
+                                            <a href="/categorys/<%= item.name %>">
+                                                <i class="fa-solid fa-book-open"></i>
+                                                <%= item.name %>
+                                            </a>
+                                        <%})
+                                    %>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <% 
+                            if (user && user.admin == "1") { %>
+
+                                <li>
+                                    <a href="#" class="desktop-link">
+                                        <i class="fa-solid fa-user"></i>
+                                        <%= user.name %>
+                                    </a>
+                                    <input type="checkbox" id="show-services">
+                                    <label for="show-services">
+                                        <i class="fa-solid fa-user"></i>
+                                        <%= user.name %>
+                                    </label>
+                                        <ul>
+                                            <li>
+                                                <a href="/user/information/<%= user.username %>">
+                                                    <i class="fa-solid fa-user"></i>
+                                                    Thông tin cá nhân
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/history/<%= user._id %>">
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    Truyện đánh dấu
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/admin/categorys">
+                                                    <i class="fa-solid fa-user-gear"></i>
+                                                    Quản lý
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/user/logout">
+                                                    <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                                                    Đăng xuất
+                                                </a>
+                                            </li>
+                                        </ul>
+                                </li>
+                            
+                            <% }
+                            else if(user && user.admin == "0") {%>
+                                <li>
+                                    <a href="#" class="desktop-link">
+                                        <i class="fa-solid fa-user"></i>
+                                        <%= user.name %>
+                                    </a>
+                                    <input type="checkbox" id="show-services">
+                                    <label for="show-services">
+                                        <i class="fa-solid fa-user"></i>
+                                        <%= user.name %>
+                                    </label>
+                                        <ul>
+                                            <li>
+                                                <a href="/user/information/<%= user.username %>">
+                                                    <i class="fa-solid fa-user"></i>
+                                                    Thông tin cá nhân
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/history/<%= user._id %>">
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    Truyện đánh dấu
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/user/logout">
+                                                    <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                                                    Đăng xuất
+                                                </a>
+                                            </li>
+                                        </ul>
+                                </li>
+                            <% } 
+                            else if(user) {%>
+                                <li>
+                                    <a href="#" class="desktop-link">
+                                        <i class="fa-solid fa-user"></i>
+                                        <%= user.displayName %>
+                                    </a>
+                                    <input type="checkbox" id="show-services">
+                                    <label for="show-services">
+                                        <i class="fa-solid fa-user"></i>
+                                        <%= user.displayName %>
+                                    </label>
+                                    <ul>
+                                        <li>
+                                            <a href="/history/<%= user._id %>">
+                                                <i class="fa-regular fa-eye"></i>
+                                                Truyện đánh dấu
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/user/logout">
+                                                <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                                                Đăng xuất
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            <% } 
+                            else if(!user) {%>
+                                <li>
+                                    <a href="/user/login">
+                                        <i class="fa-solid fa-arrow-right-to-bracket"></i>
+                                        Đăng nhập
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/user/register">
+                                        <i class="fa-solid fa-user-plus"></i>
+                                        Đăng ký
+                                    </a>
+                                </li>
+                            <% } 
+                        %>
+                        
+                    </ul>
+                </div>
+                <label for="show-search" class="search-icon"><i class="fas fa-search"></i></label>
+                <form action="/search" class="search-box" method="GET">
+                    <input type="text" name="search" placeholder="Tìm kiếm..." required>
+                    <button type="submit" class="go-icon"><i class="fas fa-long-arrow-alt-right"></i></button>
+                </form>
+            </nav>
+        </div>   
+
+        
+    
+    
+    
+
+    

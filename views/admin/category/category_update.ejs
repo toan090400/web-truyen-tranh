@@ -1,0 +1,18 @@
+<%- include ('../../layout/headerAdmin.ejs'); -%>
+
+<form action="/admin/categorys/update/<%= slug %>?_method=PUT" method="POST">
+    <div class="form-group">
+        <label for="name">Tên</label>
+        <input type="text" readonly name="name" value="<%= name %>" class="form-control">
+        
+    </div>
+    <div class="form-group">
+        <label for="description">Mô tả</label>
+        <textarea name="description" class="form-control" placeholder="Mô tả" cols="30" rows="10"><%= description %></textarea>
+    </div>
+
+    <input type="hidden" name="id" value="<%= id %>" class="form-control">
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+</form>
+
+<%- include ('../../layout/footerAdmin.ejs'); -%>

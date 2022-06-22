@@ -1,0 +1,15 @@
+<%- include ('../../layout/headerAdmin.ejs'); -%>
+<a href="/admin/products">Quay lại truyện</a>
+<div class="form-group">
+    <label for="name">Name</label>
+    <input type="text" readonly name="name" class="form-control" value="<%= name %>">
+</div>
+
+<form action="/admin/products/chapter-gallery/<%= id %>?_method=PUT" method="POST" enctype="multipart/form-data" class="dropzone" id="dropzoneForm">
+    <div class="fallback">
+        <input type="file" name="myFiles">
+    </div>
+    <button type="submit" class="btn btn-primary mt-4">Cập nhật hình ảnh</button>
+</form>
+
+<%- include ('../../layout/footerAdmin.ejs'); -%>

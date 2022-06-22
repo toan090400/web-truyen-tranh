@@ -1,0 +1,40 @@
+<%- include ('../../layout/headerAdmin.ejs'); -%>
+<a href="/admin/products/product-trash">Khôi phục truyện</a>
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">Tên truyện</th>
+            <th scope="col">Thể loại</th>
+            <th scope="col">Hình ảnh</th>
+            <th scope="col">Thêm ảnh</th>
+            <th scope="col">Cập nhật</th>
+            <th scope="col">Xóa</th>
+        </tr>
+    </thead>
+    <tbody>
+        <%
+            products.forEach( (item) =>{%>
+                <tr>
+                    <td><%= item.name %></td>
+                    <td><%= item.category %></td>
+                    <td>
+                        <img src="/product_images/<%= item.image %>" alt="<%= item.name %>" style="width: 30%;">
+                    </td>
+                    
+                    <td>
+                        <a class="btn btn-info" href="/admin/products/image/<%= item.id %>">Thêm ảnh</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-info" href="/admin/products/edit/<%= item.id %>">Cập nhật</a>
+                    </td>
+                    <td>
+                        <form action="/admin/products/delete/<%= item.name %>?_method=DELETE" method="POST">
+                            <button type="submit" class="btn btn-warning">Xóa</button>
+                        </form>
+                    </td>
+                </tr>    
+            <%});
+        %>
+    </tbody>
+</table>
+<%- include ('../../layout/footerAdmin.ejs'); -%>

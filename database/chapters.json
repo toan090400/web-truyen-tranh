@@ -1,0 +1,2690 @@
+[{
+  "_id": {
+    "$oid": "623ac3c207cd357be542d359"
+  },
+  "name": "1",
+  "description": "Lăng tiêu các",
+  "content": [
+    {
+      "fieldname": "myFiles",
+      "originalname": "001.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "2561734-001.jpg",
+      "path": "public\\chapter_images\\2561734-001.jpg",
+      "size": 134081
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "002.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "209636245-002.jpg",
+      "path": "public\\chapter_images\\209636245-002.jpg",
+      "size": 121428
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "003.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "603695355-003.jpg",
+      "path": "public\\chapter_images\\603695355-003.jpg",
+      "size": 142599
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "004.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "342911002-004.jpg",
+      "path": "public\\chapter_images\\342911002-004.jpg",
+      "size": 141341
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "005.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "715399322-005.jpg",
+      "path": "public\\chapter_images\\715399322-005.jpg",
+      "size": 191944
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "006.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "721059840-006.jpg",
+      "path": "public\\chapter_images\\721059840-006.jpg",
+      "size": 152773
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "007.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "179973499-007.jpg",
+      "path": "public\\chapter_images\\179973499-007.jpg",
+      "size": 119829
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "008.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "999197413-008.jpg",
+      "path": "public\\chapter_images\\999197413-008.jpg",
+      "size": 169586
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "009.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "559994622-009.jpg",
+      "path": "public\\chapter_images\\559994622-009.jpg",
+      "size": 136141
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "010.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "822084741-010.jpg",
+      "path": "public\\chapter_images\\822084741-010.jpg",
+      "size": 146480
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "011.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "54490842-011.jpg",
+      "path": "public\\chapter_images\\54490842-011.jpg",
+      "size": 146061
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "012.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "807805069-012.jpg",
+      "path": "public\\chapter_images\\807805069-012.jpg",
+      "size": 154927
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "013.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "288233941-013.jpg",
+      "path": "public\\chapter_images\\288233941-013.jpg",
+      "size": 136344
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "014.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "3862802-014.jpg",
+      "path": "public\\chapter_images\\3862802-014.jpg",
+      "size": 116145
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "015.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "749861594-015.jpg",
+      "path": "public\\chapter_images\\749861594-015.jpg",
+      "size": 193448
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "016.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "684753426-016.jpg",
+      "path": "public\\chapter_images\\684753426-016.jpg",
+      "size": 133176
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "017.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "721550185-017.jpg",
+      "path": "public\\chapter_images\\721550185-017.jpg",
+      "size": 124464
+    }
+  ],
+  "product": "VÕ LUYỆN ĐỈNH PHONG",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-23T06:52:50.353Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T07:36:27.700Z"
+  },
+  "slug": "1",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623ac51b07cd357be542d38e"
+  },
+  "name": "1",
+  "description": "Tiêu Viêm",
+  "content": [
+    {
+      "fieldname": "myFiles",
+      "originalname": "001.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "158651711-001.jpg",
+      "path": "public\\chapter_images\\158651711-001.jpg",
+      "size": 111560
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "002.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "681372275-002.jpg",
+      "path": "public\\chapter_images\\681372275-002.jpg",
+      "size": 57535
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "003.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "927451541-003.jpg",
+      "path": "public\\chapter_images\\927451541-003.jpg",
+      "size": 78351
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "004.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "520811531-004.jpg",
+      "path": "public\\chapter_images\\520811531-004.jpg",
+      "size": 83126
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "005.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "626161788-005.jpg",
+      "path": "public\\chapter_images\\626161788-005.jpg",
+      "size": 85467
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "006.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "840769046-006.jpg",
+      "path": "public\\chapter_images\\840769046-006.jpg",
+      "size": 76239
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "007.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "276495122-007.jpg",
+      "path": "public\\chapter_images\\276495122-007.jpg",
+      "size": 80586
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "008.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "981459787-008.jpg",
+      "path": "public\\chapter_images\\981459787-008.jpg",
+      "size": 93603
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "009.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "198095388-009.jpg",
+      "path": "public\\chapter_images\\198095388-009.jpg",
+      "size": 98684
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "010.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "670778320-010.jpg",
+      "path": "public\\chapter_images\\670778320-010.jpg",
+      "size": 97460
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "011.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "603716613-011.jpg",
+      "path": "public\\chapter_images\\603716613-011.jpg",
+      "size": 82942
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "012.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "487901247-012.jpg",
+      "path": "public\\chapter_images\\487901247-012.jpg",
+      "size": 81907
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "013.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "662241258-013.jpg",
+      "path": "public\\chapter_images\\662241258-013.jpg",
+      "size": 70757
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "014.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "45975431-014.jpg",
+      "path": "public\\chapter_images\\45975431-014.jpg",
+      "size": 88578
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "015.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "812261633-015.jpg",
+      "path": "public\\chapter_images\\812261633-015.jpg",
+      "size": 86571
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "016.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "469765989-016.jpg",
+      "path": "public\\chapter_images\\469765989-016.jpg",
+      "size": 154600
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "017.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "238432353-017.jpg",
+      "path": "public\\chapter_images\\238432353-017.jpg",
+      "size": 173855
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "018.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "104946658-018.jpg",
+      "path": "public\\chapter_images\\104946658-018.jpg",
+      "size": 149971
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "019.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "835876816-019.jpg",
+      "path": "public\\chapter_images\\835876816-019.jpg",
+      "size": 155712
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "020.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "849955808-020.jpg",
+      "path": "public\\chapter_images\\849955808-020.jpg",
+      "size": 164356
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "021.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "324973389-021.jpg",
+      "path": "public\\chapter_images\\324973389-021.jpg",
+      "size": 175563
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "022.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "383812178-022.jpg",
+      "path": "public\\chapter_images\\383812178-022.jpg",
+      "size": 153528
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "023.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "628752299-023.jpg",
+      "path": "public\\chapter_images\\628752299-023.jpg",
+      "size": 119943
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "024.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "984040645-024.jpg",
+      "path": "public\\chapter_images\\984040645-024.jpg",
+      "size": 164990
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "025.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "842604822-025.jpg",
+      "path": "public\\chapter_images\\842604822-025.jpg",
+      "size": 164690
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "026.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "560360746-026.jpg",
+      "path": "public\\chapter_images\\560360746-026.jpg",
+      "size": 158652
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "027.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "560023527-027.jpg",
+      "path": "public\\chapter_images\\560023527-027.jpg",
+      "size": 150919
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "028.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "153764743-028.jpg",
+      "path": "public\\chapter_images\\153764743-028.jpg",
+      "size": 138023
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "029.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "772276333-029.jpg",
+      "path": "public\\chapter_images\\772276333-029.jpg",
+      "size": 155232
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "030.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "751197831-030.jpg",
+      "path": "public\\chapter_images\\751197831-030.jpg",
+      "size": 152243
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "031.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "421470097-031.jpg",
+      "path": "public\\chapter_images\\421470097-031.jpg",
+      "size": 138938
+    }
+  ],
+  "product": "ĐẤU PHÁ THƯƠNG KHUNG",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-23T06:58:35.121Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T07:35:48.205Z"
+  },
+  "slug": "1-SHzVPpBBqz",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623d71153c31d9263f21c7bf"
+  },
+  "name": "1",
+  "description": "Đường Môn - Đường Tam",
+  "content": [
+    {
+      "fieldname": "myFiles",
+      "originalname": "001.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "541188449-001.jpg",
+      "path": "public\\chapter_images\\541188449-001.jpg",
+      "size": 97169
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "002.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "8702596-002.jpg",
+      "path": "public\\chapter_images\\8702596-002.jpg",
+      "size": 68973
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "003.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "82335426-003.jpg",
+      "path": "public\\chapter_images\\82335426-003.jpg",
+      "size": 81398
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "004.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "36930218-004.jpg",
+      "path": "public\\chapter_images\\36930218-004.jpg",
+      "size": 93977
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "005.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "314590013-005.jpg",
+      "path": "public\\chapter_images\\314590013-005.jpg",
+      "size": 86989
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "006.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "138255296-006.jpg",
+      "path": "public\\chapter_images\\138255296-006.jpg",
+      "size": 80623
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "007.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "369926355-007.jpg",
+      "path": "public\\chapter_images\\369926355-007.jpg",
+      "size": 79132
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "008.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "451711661-008.jpg",
+      "path": "public\\chapter_images\\451711661-008.jpg",
+      "size": 71778
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "009.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "817196844-009.jpg",
+      "path": "public\\chapter_images\\817196844-009.jpg",
+      "size": 90438
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "010.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "687987575-010.jpg",
+      "path": "public\\chapter_images\\687987575-010.jpg",
+      "size": 89693
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "011.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "687822439-011.jpg",
+      "path": "public\\chapter_images\\687822439-011.jpg",
+      "size": 88327
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "012.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "191447877-012.jpg",
+      "path": "public\\chapter_images\\191447877-012.jpg",
+      "size": 92003
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "013.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "975534018-013.jpg",
+      "path": "public\\chapter_images\\975534018-013.jpg",
+      "size": 87850
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "014.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "260433500-014.jpg",
+      "path": "public\\chapter_images\\260433500-014.jpg",
+      "size": 100288
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "015.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "217955059-015.jpg",
+      "path": "public\\chapter_images\\217955059-015.jpg",
+      "size": 91746
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "016.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "68960952-016.jpg",
+      "path": "public\\chapter_images\\68960952-016.jpg",
+      "size": 92424
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "017.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "338540964-017.jpg",
+      "path": "public\\chapter_images\\338540964-017.jpg",
+      "size": 88239
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "018.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "131235051-018.jpg",
+      "path": "public\\chapter_images\\131235051-018.jpg",
+      "size": 75639
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "019.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "266983891-019.jpg",
+      "path": "public\\chapter_images\\266983891-019.jpg",
+      "size": 104900
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "020.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "747847540-020.jpg",
+      "path": "public\\chapter_images\\747847540-020.jpg",
+      "size": 94564
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "021.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "104616390-021.jpg",
+      "path": "public\\chapter_images\\104616390-021.jpg",
+      "size": 79947
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "023.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "273983227-023.jpg",
+      "path": "public\\chapter_images\\273983227-023.jpg",
+      "size": 78327
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "024.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "138928234-024.jpg",
+      "path": "public\\chapter_images\\138928234-024.jpg",
+      "size": 90328
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "025.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "702350716-025.jpg",
+      "path": "public\\chapter_images\\702350716-025.jpg",
+      "size": 104219
+    }
+  ],
+  "product": "ĐẤU LA ĐẠI LỤC",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T07:36:53.776Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T07:37:38.640Z"
+  },
+  "slug": "1-mgil14p9Vf",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623d71223c31d9263f21c7cd"
+  },
+  "name": "2",
+  "description": "Song sinh võ hồn",
+  "content": [
+    {
+      "fieldname": "myFiles",
+      "originalname": "001.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "555848405-001.jpg",
+      "path": "public\\chapter_images\\555848405-001.jpg",
+      "size": 42261
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "002.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "241207666-002.jpg",
+      "path": "public\\chapter_images\\241207666-002.jpg",
+      "size": 76564
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "003.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "4807675-003.jpg",
+      "path": "public\\chapter_images\\4807675-003.jpg",
+      "size": 80649
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "004.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "980566714-004.jpg",
+      "path": "public\\chapter_images\\980566714-004.jpg",
+      "size": 76524
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "005.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "506771264-005.jpg",
+      "path": "public\\chapter_images\\506771264-005.jpg",
+      "size": 72764
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "006.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "780380576-006.jpg",
+      "path": "public\\chapter_images\\780380576-006.jpg",
+      "size": 67621
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "007.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "247229752-007.jpg",
+      "path": "public\\chapter_images\\247229752-007.jpg",
+      "size": 69749
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "008.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "533290081-008.jpg",
+      "path": "public\\chapter_images\\533290081-008.jpg",
+      "size": 71302
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "009.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "160064175-009.jpg",
+      "path": "public\\chapter_images\\160064175-009.jpg",
+      "size": 81697
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "010.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "545089981-010.jpg",
+      "path": "public\\chapter_images\\545089981-010.jpg",
+      "size": 69199
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "011.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "449478366-011.jpg",
+      "path": "public\\chapter_images\\449478366-011.jpg",
+      "size": 78466
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "012.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "735481413-012.jpg",
+      "path": "public\\chapter_images\\735481413-012.jpg",
+      "size": 80451
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "013.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "860279331-013.jpg",
+      "path": "public\\chapter_images\\860279331-013.jpg",
+      "size": 69614
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "014.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "569979542-014.jpg",
+      "path": "public\\chapter_images\\569979542-014.jpg",
+      "size": 81622
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "015.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "833865237-015.jpg",
+      "path": "public\\chapter_images\\833865237-015.jpg",
+      "size": 68199
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "016.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "476485639-016.jpg",
+      "path": "public\\chapter_images\\476485639-016.jpg",
+      "size": 75522
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "017.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "631259686-017.jpg",
+      "path": "public\\chapter_images\\631259686-017.jpg",
+      "size": 81813
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "018.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "821241026-018.jpg",
+      "path": "public\\chapter_images\\821241026-018.jpg",
+      "size": 76558
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "019.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "726580595-019.jpg",
+      "path": "public\\chapter_images\\726580595-019.jpg",
+      "size": 86510
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "020.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "699558599-020.jpg",
+      "path": "public\\chapter_images\\699558599-020.jpg",
+      "size": 91859
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "021.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "390429666-021.jpg",
+      "path": "public\\chapter_images\\390429666-021.jpg",
+      "size": 83895
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "022.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "437040537-022.jpg",
+      "path": "public\\chapter_images\\437040537-022.jpg",
+      "size": 75787
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "023.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "863836624-023.jpg",
+      "path": "public\\chapter_images\\863836624-023.jpg",
+      "size": 76682
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "024.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "133415170-024.jpg",
+      "path": "public\\chapter_images\\133415170-024.jpg",
+      "size": 70655
+    }
+  ],
+  "product": "ĐẤU LA ĐẠI LỤC",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T07:37:06.272Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T07:51:32.521Z"
+  },
+  "slug": "2",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623d779f3c31d9263f21c833"
+  },
+  "name": "1",
+  "description": "Kim YuWon",
+  "content": [
+    {
+      "fieldname": "myFiles",
+      "originalname": "001.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "66949026-001.jpg",
+      "path": "public\\chapter_images\\66949026-001.jpg",
+      "size": 100534
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "002.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "591722537-002.jpg",
+      "path": "public\\chapter_images\\591722537-002.jpg",
+      "size": 55210
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "003.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "395424591-003.jpg",
+      "path": "public\\chapter_images\\395424591-003.jpg",
+      "size": 18601
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "004.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "22697564-004.jpg",
+      "path": "public\\chapter_images\\22697564-004.jpg",
+      "size": 58235
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "005.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "863028972-005.jpg",
+      "path": "public\\chapter_images\\863028972-005.jpg",
+      "size": 46393
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "006.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "784086593-006.jpg",
+      "path": "public\\chapter_images\\784086593-006.jpg",
+      "size": 59634
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "007.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "28671631-007.jpg",
+      "path": "public\\chapter_images\\28671631-007.jpg",
+      "size": 167197
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "008.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "606071154-008.jpg",
+      "path": "public\\chapter_images\\606071154-008.jpg",
+      "size": 160832
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "009.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "286782841-009.jpg",
+      "path": "public\\chapter_images\\286782841-009.jpg",
+      "size": 128197
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "010.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "519298713-010.jpg",
+      "path": "public\\chapter_images\\519298713-010.jpg",
+      "size": 55403
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "011.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "686527060-011.jpg",
+      "path": "public\\chapter_images\\686527060-011.jpg",
+      "size": 81999
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "012.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "601521694-012.jpg",
+      "path": "public\\chapter_images\\601521694-012.jpg",
+      "size": 89839
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "013.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "725952215-013.jpg",
+      "path": "public\\chapter_images\\725952215-013.jpg",
+      "size": 115499
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "014.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "369962632-014.jpg",
+      "path": "public\\chapter_images\\369962632-014.jpg",
+      "size": 214981
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "015.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "772047894-015.jpg",
+      "path": "public\\chapter_images\\772047894-015.jpg",
+      "size": 152690
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "016.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "553352247-016.jpg",
+      "path": "public\\chapter_images\\553352247-016.jpg",
+      "size": 185419
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "017.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "637430777-017.jpg",
+      "path": "public\\chapter_images\\637430777-017.jpg",
+      "size": 147762
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "018.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "702498390-018.jpg",
+      "path": "public\\chapter_images\\702498390-018.jpg",
+      "size": 127886
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "019.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "137902165-019.jpg",
+      "path": "public\\chapter_images\\137902165-019.jpg",
+      "size": 147520
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "020.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "326628776-020.jpg",
+      "path": "public\\chapter_images\\326628776-020.jpg",
+      "size": 202470
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "021.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "190914542-021.jpg",
+      "path": "public\\chapter_images\\190914542-021.jpg",
+      "size": 136682
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "022.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "982605767-022.jpg",
+      "path": "public\\chapter_images\\982605767-022.jpg",
+      "size": 76498
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "023.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "618937294-023.jpg",
+      "path": "public\\chapter_images\\618937294-023.jpg",
+      "size": 120307
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "024.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "892999590-024.jpg",
+      "path": "public\\chapter_images\\892999590-024.jpg",
+      "size": 152660
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "025.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "234287888-025.jpg",
+      "path": "public\\chapter_images\\234287888-025.jpg",
+      "size": 132621
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "026.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "635268508-026.jpg",
+      "path": "public\\chapter_images\\635268508-026.jpg",
+      "size": 156810
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "027.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "466123215-027.jpg",
+      "path": "public\\chapter_images\\466123215-027.jpg",
+      "size": 131871
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "028.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "155020350-028.jpg",
+      "path": "public\\chapter_images\\155020350-028.jpg",
+      "size": 145785
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "029.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "843461341-029.jpg",
+      "path": "public\\chapter_images\\843461341-029.jpg",
+      "size": 93574
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "030.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "731376820-030.jpg",
+      "path": "public\\chapter_images\\731376820-030.jpg",
+      "size": 140603
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "031.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "240976848-031.jpg",
+      "path": "public\\chapter_images\\240976848-031.jpg",
+      "size": 102284
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "032.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "671514771-032.jpg",
+      "path": "public\\chapter_images\\671514771-032.jpg",
+      "size": 127100
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "033.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "869158779-033.jpg",
+      "path": "public\\chapter_images\\869158779-033.jpg",
+      "size": 125790
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "034.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "284276991-034.jpg",
+      "path": "public\\chapter_images\\284276991-034.jpg",
+      "size": 101468
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "035.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "720288775-035.jpg",
+      "path": "public\\chapter_images\\720288775-035.jpg",
+      "size": 144785
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "036.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "559867918-036.jpg",
+      "path": "public\\chapter_images\\559867918-036.jpg",
+      "size": 99341
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "037.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "372657228-037.jpg",
+      "path": "public\\chapter_images\\372657228-037.jpg",
+      "size": 100066
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "038.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "314947903-038.jpg",
+      "path": "public\\chapter_images\\314947903-038.jpg",
+      "size": 142308
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "039.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "427553104-039.jpg",
+      "path": "public\\chapter_images\\427553104-039.jpg",
+      "size": 45765
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "040.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "61597013-040.jpg",
+      "path": "public\\chapter_images\\61597013-040.jpg",
+      "size": 60086
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "041.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "225199027-041.jpg",
+      "path": "public\\chapter_images\\225199027-041.jpg",
+      "size": 161598
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "042.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "183748495-042.jpg",
+      "path": "public\\chapter_images\\183748495-042.jpg",
+      "size": 129830
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "043.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "874613379-043.jpg",
+      "path": "public\\chapter_images\\874613379-043.jpg",
+      "size": 112657
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "044.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "421408845-044.jpg",
+      "path": "public\\chapter_images\\421408845-044.jpg",
+      "size": 266477
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "045.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "130083392-045.jpg",
+      "path": "public\\chapter_images\\130083392-045.jpg",
+      "size": 172180
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "046.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "271940477-046.jpg",
+      "path": "public\\chapter_images\\271940477-046.jpg",
+      "size": 150591
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "047.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "355578333-047.jpg",
+      "path": "public\\chapter_images\\355578333-047.jpg",
+      "size": 221911
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "048.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "120359659-048.jpg",
+      "path": "public\\chapter_images\\120359659-048.jpg",
+      "size": 140487
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "049.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "842465350-049.jpg",
+      "path": "public\\chapter_images\\842465350-049.jpg",
+      "size": 162979
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "050.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "873986732-050.jpg",
+      "path": "public\\chapter_images\\873986732-050.jpg",
+      "size": 281189
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "051.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "740175093-051.jpg",
+      "path": "public\\chapter_images\\740175093-051.jpg",
+      "size": 96917
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "052.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "269064683-052.jpg",
+      "path": "public\\chapter_images\\269064683-052.jpg",
+      "size": 62357
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "053.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "911613949-053.jpg",
+      "path": "public\\chapter_images\\911613949-053.jpg",
+      "size": 77945
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "054.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "736434706-054.jpg",
+      "path": "public\\chapter_images\\736434706-054.jpg",
+      "size": 111832
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "055.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "256362567-055.jpg",
+      "path": "public\\chapter_images\\256362567-055.jpg",
+      "size": 100598
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "056.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "2657889-056.jpg",
+      "path": "public\\chapter_images\\2657889-056.jpg",
+      "size": 215521
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "057.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "310941107-057.jpg",
+      "path": "public\\chapter_images\\310941107-057.jpg",
+      "size": 224778
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "058.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "760349936-058.jpg",
+      "path": "public\\chapter_images\\760349936-058.jpg",
+      "size": 132212
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "059.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "872193256-059.jpg",
+      "path": "public\\chapter_images\\872193256-059.jpg",
+      "size": 63538
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "060.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "574273414-060.jpg",
+      "path": "public\\chapter_images\\574273414-060.jpg",
+      "size": 80676
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "061.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "450773865-061.jpg",
+      "path": "public\\chapter_images\\450773865-061.jpg",
+      "size": 84537
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "062.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "722136062-062.jpg",
+      "path": "public\\chapter_images\\722136062-062.jpg",
+      "size": 128338
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "063.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "399965606-063.jpg",
+      "path": "public\\chapter_images\\399965606-063.jpg",
+      "size": 158309
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "064.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "882807284-064.jpg",
+      "path": "public\\chapter_images\\882807284-064.jpg",
+      "size": 182122
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "065.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "150043921-065.jpg",
+      "path": "public\\chapter_images\\150043921-065.jpg",
+      "size": 127312
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "066.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "609227700-066.jpg",
+      "path": "public\\chapter_images\\609227700-066.jpg",
+      "size": 47304
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "067.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "101651389-067.jpg",
+      "path": "public\\chapter_images\\101651389-067.jpg",
+      "size": 103188
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "068.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "181079231-068.jpg",
+      "path": "public\\chapter_images\\181079231-068.jpg",
+      "size": 71981
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "069.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "934245808-069.jpg",
+      "path": "public\\chapter_images\\934245808-069.jpg",
+      "size": 184935
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "070.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "957315112-070.jpg",
+      "path": "public\\chapter_images\\957315112-070.jpg",
+      "size": 82908
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "071.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "924052473-071.jpg",
+      "path": "public\\chapter_images\\924052473-071.jpg",
+      "size": 76216
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "072.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "17425789-072.jpg",
+      "path": "public\\chapter_images\\17425789-072.jpg",
+      "size": 211946
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "073.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "166711302-073.jpg",
+      "path": "public\\chapter_images\\166711302-073.jpg",
+      "size": 222911
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "074.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "540866213-074.jpg",
+      "path": "public\\chapter_images\\540866213-074.jpg",
+      "size": 150763
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "075.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "221522402-075.jpg",
+      "path": "public\\chapter_images\\221522402-075.jpg",
+      "size": 30577
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "076.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "952863485-076.jpg",
+      "path": "public\\chapter_images\\952863485-076.jpg",
+      "size": 40160
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "077.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "494348134-077.jpg",
+      "path": "public\\chapter_images\\494348134-077.jpg",
+      "size": 54217
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "078.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "174479560-078.jpg",
+      "path": "public\\chapter_images\\174479560-078.jpg",
+      "size": 76858
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "079.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "417285469-079.jpg",
+      "path": "public\\chapter_images\\417285469-079.jpg",
+      "size": 127715
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "080.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "916706285-080.jpg",
+      "path": "public\\chapter_images\\916706285-080.jpg",
+      "size": 153449
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "081.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "607731355-081.jpg",
+      "path": "public\\chapter_images\\607731355-081.jpg",
+      "size": 138012
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "082.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "701985688-082.jpg",
+      "path": "public\\chapter_images\\701985688-082.jpg",
+      "size": 135257
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "083.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "773560873-083.jpg",
+      "path": "public\\chapter_images\\773560873-083.jpg",
+      "size": 194085
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "084.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "734385465-084.jpg",
+      "path": "public\\chapter_images\\734385465-084.jpg",
+      "size": 216977
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "085.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "30143916-085.jpg",
+      "path": "public\\chapter_images\\30143916-085.jpg",
+      "size": 141897
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "086.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "852153585-086.jpg",
+      "path": "public\\chapter_images\\852153585-086.jpg",
+      "size": 190629
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "087.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "289634656-087.jpg",
+      "path": "public\\chapter_images\\289634656-087.jpg",
+      "size": 153464
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "088.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "693995968-088.jpg",
+      "path": "public\\chapter_images\\693995968-088.jpg",
+      "size": 224323
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "089.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "841757795-089.jpg",
+      "path": "public\\chapter_images\\841757795-089.jpg",
+      "size": 201668
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "090.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "823184813-090.jpg",
+      "path": "public\\chapter_images\\823184813-090.jpg",
+      "size": 183843
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "091.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "998470185-091.jpg",
+      "path": "public\\chapter_images\\998470185-091.jpg",
+      "size": 118477
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "092.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "989717104-092.jpg",
+      "path": "public\\chapter_images\\989717104-092.jpg",
+      "size": 118635
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "093.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "180209805-093.jpg",
+      "path": "public\\chapter_images\\180209805-093.jpg",
+      "size": 171464
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "094.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "497049300-094.jpg",
+      "path": "public\\chapter_images\\497049300-094.jpg",
+      "size": 237243
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "095.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "492557786-095.jpg",
+      "path": "public\\chapter_images\\492557786-095.jpg",
+      "size": 219596
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "096.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "752581806-096.jpg",
+      "path": "public\\chapter_images\\752581806-096.jpg",
+      "size": 140836
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "097.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "798664266-097.jpg",
+      "path": "public\\chapter_images\\798664266-097.jpg",
+      "size": 101194
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "098.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "958558318-098.jpg",
+      "path": "public\\chapter_images\\958558318-098.jpg",
+      "size": 129194
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "099.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "981146426-099.jpg",
+      "path": "public\\chapter_images\\981146426-099.jpg",
+      "size": 129290
+    }
+  ],
+  "product": "THĂNG CẤP CÙNG THẦN",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T08:04:47.291Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T08:05:05.821Z"
+  },
+  "slug": "1-ohFqAlcCGU",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623d795d3c31d9263f21c87d"
+  },
+  "name": "1",
+  "description": "Mạt thế",
+  "content": [
+    {
+      "fieldname": "myFiles",
+      "originalname": "001.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "244946836-001.jpg",
+      "path": "public\\chapter_images\\244946836-001.jpg",
+      "size": 150453
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "002.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "284369904-002.jpg",
+      "path": "public\\chapter_images\\284369904-002.jpg",
+      "size": 146499
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "003.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "418496861-003.jpg",
+      "path": "public\\chapter_images\\418496861-003.jpg",
+      "size": 99422
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "004.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "589664782-004.jpg",
+      "path": "public\\chapter_images\\589664782-004.jpg",
+      "size": 106832
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "005.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "500075518-005.jpg",
+      "path": "public\\chapter_images\\500075518-005.jpg",
+      "size": 189499
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "006.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "182723668-006.jpg",
+      "path": "public\\chapter_images\\182723668-006.jpg",
+      "size": 195131
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "007.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "240572640-007.jpg",
+      "path": "public\\chapter_images\\240572640-007.jpg",
+      "size": 82276
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "008.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "872071480-008.jpg",
+      "path": "public\\chapter_images\\872071480-008.jpg",
+      "size": 91927
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "009.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "698525228-009.jpg",
+      "path": "public\\chapter_images\\698525228-009.jpg",
+      "size": 193775
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "010.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "897216860-010.jpg",
+      "path": "public\\chapter_images\\897216860-010.jpg",
+      "size": 193241
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "011.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "577564570-011.jpg",
+      "path": "public\\chapter_images\\577564570-011.jpg",
+      "size": 111671
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "012.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "357261560-012.jpg",
+      "path": "public\\chapter_images\\357261560-012.jpg",
+      "size": 7994
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "013.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "509166156-013.jpg",
+      "path": "public\\chapter_images\\509166156-013.jpg",
+      "size": 161077
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "014.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "830200440-014.jpg",
+      "path": "public\\chapter_images\\830200440-014.jpg",
+      "size": 188552
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "015.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "208135890-015.jpg",
+      "path": "public\\chapter_images\\208135890-015.jpg",
+      "size": 143409
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "016.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "164666032-016.jpg",
+      "path": "public\\chapter_images\\164666032-016.jpg",
+      "size": 140386
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "017.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "348885330-017.jpg",
+      "path": "public\\chapter_images\\348885330-017.jpg",
+      "size": 196444
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "018.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "797675341-018.jpg",
+      "path": "public\\chapter_images\\797675341-018.jpg",
+      "size": 257418
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "019.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "727127455-019.jpg",
+      "path": "public\\chapter_images\\727127455-019.jpg",
+      "size": 227327
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "020.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "654099920-020.jpg",
+      "path": "public\\chapter_images\\654099920-020.jpg",
+      "size": 198905
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "021.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "305725613-021.jpg",
+      "path": "public\\chapter_images\\305725613-021.jpg",
+      "size": 312378
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "022.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "13973703-022.jpg",
+      "path": "public\\chapter_images\\13973703-022.jpg",
+      "size": 176749
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "023.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "201329052-023.jpg",
+      "path": "public\\chapter_images\\201329052-023.jpg",
+      "size": 265960
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "024.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "807519554-024.jpg",
+      "path": "public\\chapter_images\\807519554-024.jpg",
+      "size": 224317
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "025.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "121427403-025.jpg",
+      "path": "public\\chapter_images\\121427403-025.jpg",
+      "size": 149487
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "026.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "249310605-026.jpg",
+      "path": "public\\chapter_images\\249310605-026.jpg",
+      "size": 197900
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "027.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "202775010-027.jpg",
+      "path": "public\\chapter_images\\202775010-027.jpg",
+      "size": 183012
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "028.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "249308491-028.jpg",
+      "path": "public\\chapter_images\\249308491-028.jpg",
+      "size": 212588
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "029.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "344270507-029.jpg",
+      "path": "public\\chapter_images\\344270507-029.jpg",
+      "size": 55032
+    }
+  ],
+  "product": "QUÁI VẬT NHẠC VIÊN",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T08:12:13.949Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:35:19.462Z"
+  },
+  "slug": "1-OuDDD9ZvEV",
+  "__v": 1,
+  "deletedAt": {
+    "$date": "2022-03-30T08:34:56.644Z"
+  }
+},{
+  "_id": {
+    "$oid": "623d79783c31d9263f21c88b"
+  },
+  "name": "1",
+  "description": "Hàn Lập",
+  "content": [
+    {
+      "fieldname": "myFiles",
+      "originalname": "001-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "233438536-001-fix.jpg",
+      "path": "public\\chapter_images\\233438536-001-fix.jpg",
+      "size": 175885
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "002-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "426187933-002-fix.jpg",
+      "path": "public\\chapter_images\\426187933-002-fix.jpg",
+      "size": 213510
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "003-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "284742727-003-fix.jpg",
+      "path": "public\\chapter_images\\284742727-003-fix.jpg",
+      "size": 139882
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "004-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "484567803-004-fix.jpg",
+      "path": "public\\chapter_images\\484567803-004-fix.jpg",
+      "size": 186972
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "005-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "194984915-005-fix.jpg",
+      "path": "public\\chapter_images\\194984915-005-fix.jpg",
+      "size": 158528
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "006-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "983126368-006-fix.jpg",
+      "path": "public\\chapter_images\\983126368-006-fix.jpg",
+      "size": 137431
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "007-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "876791735-007-fix.jpg",
+      "path": "public\\chapter_images\\876791735-007-fix.jpg",
+      "size": 158556
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "008-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "513295245-008-fix.jpg",
+      "path": "public\\chapter_images\\513295245-008-fix.jpg",
+      "size": 171776
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "009-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "468191395-009-fix.jpg",
+      "path": "public\\chapter_images\\468191395-009-fix.jpg",
+      "size": 127018
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "010-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "876835237-010-fix.jpg",
+      "path": "public\\chapter_images\\876835237-010-fix.jpg",
+      "size": 178026
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "011-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "984710386-011-fix.jpg",
+      "path": "public\\chapter_images\\984710386-011-fix.jpg",
+      "size": 165639
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "012-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "45267712-012-fix.jpg",
+      "path": "public\\chapter_images\\45267712-012-fix.jpg",
+      "size": 180749
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "013-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "276931488-013-fix.jpg",
+      "path": "public\\chapter_images\\276931488-013-fix.jpg",
+      "size": 166616
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "014-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "992635334-014-fix.jpg",
+      "path": "public\\chapter_images\\992635334-014-fix.jpg",
+      "size": 156666
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "015-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "551532413-015-fix.jpg",
+      "path": "public\\chapter_images\\551532413-015-fix.jpg",
+      "size": 164145
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "016-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "857734282-016-fix.jpg",
+      "path": "public\\chapter_images\\857734282-016-fix.jpg",
+      "size": 171361
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "017-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "844338841-017-fix.jpg",
+      "path": "public\\chapter_images\\844338841-017-fix.jpg",
+      "size": 199123
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "018-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "592453549-018-fix.jpg",
+      "path": "public\\chapter_images\\592453549-018-fix.jpg",
+      "size": 196683
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "019-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "70472046-019-fix.jpg",
+      "path": "public\\chapter_images\\70472046-019-fix.jpg",
+      "size": 189562
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "020-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "479363203-020-fix.jpg",
+      "path": "public\\chapter_images\\479363203-020-fix.jpg",
+      "size": 155398
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "021-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "73131737-021-fix.jpg",
+      "path": "public\\chapter_images\\73131737-021-fix.jpg",
+      "size": 204036
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "022-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "254327436-022-fix.jpg",
+      "path": "public\\chapter_images\\254327436-022-fix.jpg",
+      "size": 157538
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "023-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "921408977-023-fix.jpg",
+      "path": "public\\chapter_images\\921408977-023-fix.jpg",
+      "size": 161207
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "024-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "782233165-024-fix.jpg",
+      "path": "public\\chapter_images\\782233165-024-fix.jpg",
+      "size": 154726
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "025-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "325260334-025-fix.jpg",
+      "path": "public\\chapter_images\\325260334-025-fix.jpg",
+      "size": 189400
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "026-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "173829641-026-fix.jpg",
+      "path": "public\\chapter_images\\173829641-026-fix.jpg",
+      "size": 161911
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "027-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "82676818-027-fix.jpg",
+      "path": "public\\chapter_images\\82676818-027-fix.jpg",
+      "size": 207049
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "028-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "5722668-028-fix.jpg",
+      "path": "public\\chapter_images\\5722668-028-fix.jpg",
+      "size": 141742
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "029-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "441473412-029-fix.jpg",
+      "path": "public\\chapter_images\\441473412-029-fix.jpg",
+      "size": 165559
+    },
+    {
+      "fieldname": "myFiles",
+      "originalname": "030-fix.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/chapter_images/",
+      "filename": "134011665-030-fix.jpg",
+      "path": "public\\chapter_images\\134011665-030-fix.jpg",
+      "size": 163827
+    }
+  ],
+  "product": "PHÀM NHÂN TU TIÊN",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T08:12:40.440Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:35:20.115Z"
+  },
+  "slug": "1-bxHpt5ipVd",
+  "__v": 1,
+  "deletedAt": {
+    "$date": "2022-03-30T08:34:55.732Z"
+  }
+},{
+  "_id": {
+    "$oid": "6244149934b9ba817fb94564"
+  },
+  "name": "2",
+  "description": "Từ hôn",
+  "content": [],
+  "product": "ĐẤU PHÁ THƯƠNG KHUNG",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-30T08:28:09.889Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:28:09.889Z"
+  },
+  "slug": "2-zXn4VnCjcD",
+  "__v": 0
+}]

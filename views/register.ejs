@@ -1,0 +1,33 @@
+<%- include ('./layout/header.ejs'); -%>
+
+<div class="container__login">
+    <div class="wrapper__login">
+        <h2>Đăng ký</h2>
+        <form action="/user/register/add" method="POST">
+            <div class="input-box">
+                <input type="text" name="name" placeholder="Tên hiển thị">
+            </div>
+            <div class="input-box">
+                <input type="text" name="email" placeholder="Email">
+            </div>
+            <div class="input-box">
+                <input type="text" name="username" placeholder="Tài khoản">
+            </div>
+            <div class="input-box">
+                <input type="password" name="password" placeholder="Mật khẩu">
+            </div>
+            <div class="input-box">
+                <input type="password" name="password_confirm" placeholder="Nhập lại mật khẩu">
+            </div>
+            <div class="input-box button">
+                <input type="submit" value="Đăng ký">
+            </div>
+            <div class="text">
+                <h3>Bạn đã có tài khoản ? <a href="/user/login">Đăng nhập ngay !</a></h3>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<%- include ('./layout/footer.ejs'); -%>

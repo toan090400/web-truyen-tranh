@@ -1,0 +1,54 @@
+<%- include ('./layout/header.ejs'); -%>
+
+<section class="features" id="features">
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="/product_images/<%= product.image %>" loading="lazy" alt="<%= product.name %>">
+            <h3><%= product.name %></h3>
+            <p><%= product.description %></p>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- features section ends -->
+
+<div class="chapter-list">
+    
+    <h1>
+        <i class="fa-solid fa-book"></i>
+        Danh sách chapter
+    </h1>
+    <div class="chapter">
+        <table>
+            <thead>
+                <tr>
+                    <th>Số chương</th>
+                    <th>Tên chương</th>
+                    <th>Ngày cập nhật</th>
+                </tr>
+            </thead>
+            <tbody>
+                <%
+                    chapters.forEach( (item) =>{%>
+                        <tr>
+                            <td>
+                                <a href="/chapters/<%= product.name %>/chapter/<%= item.name %>">
+                                    Chương: <%= item.name %>
+                                </a>
+                            </td>
+                            <td><%= item.description %></td>
+                            <td><%= item.createdAt.toLocaleString('en-US',{ weekday: 'long', year: 'numeric', month: 'numeric', day: 'numeric' }) %></td>
+                        </tr>
+                    <%})
+                %>
+                
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<%- include ('./layout/footer.ejs'); -%>
