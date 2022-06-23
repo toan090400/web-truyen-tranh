@@ -6,10 +6,33 @@
 </div>
 
 <form action="/admin/products/chapter-gallery/<%= id %>?_method=PUT" method="POST" enctype="multipart/form-data" class="dropzone" id="dropzoneForm">
-    <div class="fallback">
-        <input type="file" name="myFiles">
+    <!-- <div class="fallback">
+        <input type="file" name="myFiles" >
     </div>
+    <button type="submit" class="btn btn-primary mt-4">Cập nhật hình ảnh</button> -->
+
+    <div class="image__content">
+        <label for="image">
+          Select Image <br/>
+          <i class="fa fa-2x fa-camera"></i>
+          <input id="image" type="file" name="myFiles"/>
+          <br/>
+          <span id="imageName"></span>
+        </label>
+    </div>
+
     <button type="submit" class="btn btn-primary mt-4">Cập nhật hình ảnh</button>
 </form>
+
+<script>
+    let input = document.getElementById("image");
+    let imageName = document.getElementById("imageName")
+
+    input.addEventListener("change", ()=>{
+        let inputImage = document.querySelector("input[type=file]").files[0];
+
+        imageName.innerText = inputImage.name;
+    })
+</script>
 
 <%- include ('../../layout/footerAdmin.ejs'); -%>

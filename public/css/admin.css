@@ -129,3 +129,19 @@ h3 {
 .chapter__container .content .content__image {
   text-align: center;
 }
+
+.image__content{
+  text-align:center;
+  padding:3%;
+  border:thin solid black;
+}
+
+.image__content input{
+  display: none;
+}
+.image__content label{
+  cursor:pointer;
+}
+.image__content #imageName{
+  color:green;
+}

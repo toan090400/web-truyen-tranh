@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 var URLSlug = require("mongoose-slug-generator");
 var mongooseDelete = require('mongoose-delete');
 
-// Category Schema
+// ChapterSchema
 var ChapterSchema = mongoose.Schema({
     name:{
         type: String,
