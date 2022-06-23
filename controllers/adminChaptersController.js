@@ -2,6 +2,9 @@ var Product = require('../models/product');
 var Chapter = require('../models/chapter');
 var { validationResult } = require('express-validator');
 
+var mkdirp = require('mkdirp');
+var fs = require('fs-extra');
+var resizeImg = require('resize-img');
 
 var adminChapters = {
 
@@ -176,13 +179,15 @@ var adminChapters = {
             }
         });
     },
-
+    // munter 
     PutAdminChaptersContent: function (req, res) {
         
         Chapter.findOne({_id:req.params.id}, function (err, chapter) {
             var image = req.files[0];
             if(image){
                 chapter.content = req.files;
+
+                
     
                 chapter.save(function (err) {
                     if (err){
@@ -200,6 +205,7 @@ var adminChapters = {
                     name: chapter.name,
                     product: chapter.product,
                     content: chapter.content,
+                    description: chapter.description,
                 });
             }
         });
