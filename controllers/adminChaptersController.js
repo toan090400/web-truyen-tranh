@@ -204,8 +204,8 @@ var adminChapters = {
                     id: chapter._id,
                     name: chapter.name,
                     product: chapter.product,
-                    content: chapter.content,
                     description: chapter.description,
+                    content: chapter.content,
                 });
             }
         });
