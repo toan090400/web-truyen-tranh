@@ -21,7 +21,9 @@
         <div class="content__image">
             <%
                 content.forEach( (item) =>{%>
-                    <img src="/chapter_images/<%= item.filename %>" alt="">
+                    <div class="image__content">
+                        <img src="/chapter_images/<%= item.filename %>" alt="">
+                    </div>
                 <%});
             %>
         </div>

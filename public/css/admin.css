@@ -129,11 +129,9 @@ h3 {
 .chapter__container .content .content__image {
   text-align: center;
 }
-
-.image__content{
-  text-align:center;
-  padding:3%;
-  border:thin solid black;
+.chapter__container .content .content__image .image__content img{
+  width: 100%;
+  height: auto;
 }
 
 .image__content input{

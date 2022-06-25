@@ -634,6 +634,10 @@ form .button input:hover {
 .chapter__container .content .content__image {
   text-align: center;
 }
+.chapter__container .content .content__image .image__content img{
+  width: 100%;
+  height: auto;
+}
 /* login */
 .container__login {
   min-height: 100vh;
