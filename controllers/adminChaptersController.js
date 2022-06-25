@@ -2,9 +2,9 @@ var Product = require('../models/product');
 var Chapter = require('../models/chapter');
 var { validationResult } = require('express-validator');
 
-var mkdirp = require('mkdirp');
-var fs = require('fs-extra');
-var resizeImg = require('resize-img');
+// var mkdirp = require('mkdirp');
+// var fs = require('fs-extra');
+// var resizeImg = require('resize-img');
 
 var adminChapters = {
 

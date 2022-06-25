@@ -11,7 +11,7 @@ var product = {
                     chapters: chapters,
                     quantity: chapters.length,
                 });
-            });
+            }).sort({name: 1});
             
         });
         

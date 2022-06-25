@@ -1,5 +1,3 @@
-var Category = require('../models/category');
-var Product = require('../models/product');
 var Chapter = require('../models/chapter');
 
 var home = {
