@@ -21,7 +21,8 @@ var AdminProducts = require('../controllers/adminProductsController');
 var admin = require('../config/admin');
 var isAdmin = admin.isAdmin;
 
-router.get('/', isAdmin,AdminProducts.GetAdminProducts);
+// router.get('/', isAdmin,AdminProducts.GetAdminProducts);
+router.get('/', AdminProducts.GetAdminProducts);
 
 
 router.get('/product-add',isAdmin,AdminProducts.GetAdminProductsAdd);

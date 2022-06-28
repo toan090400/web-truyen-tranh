@@ -1,5 +1,6 @@
 var Product = require('../models/product');
 var Category = require('../models/category');
+var Chapter = require('../models/chapter');
 var { validationResult } = require('express-validator');
 
 
@@ -146,10 +147,8 @@ var adminProducts = {
     },
 
     DeleteAdminProductsDestroy: async (req, res) => {
-        var products = await Product.findByIdAndDelete({_id:req.params.id});
-        if(!products){
-            return console.log(products);
-        }
+        const product = await Product.findByIdAndDelete({_id:req.params.id})
+        const chapter = await Chapter.deleteMany({product:product.name})
         req.flash('success', 'Xóa vĩnh viễn truyện thành công.');
         res.redirect('/admin/products/product-trash');
 
